@@ -46,4 +46,5 @@ To use the Turtle Graphics program, follow these steps:
 8. To load a saved drawing, use the "Load" option in the program's menu. This will restore the previously saved state, allowing you to continue working on your drawing.
 
 ## Example Output
+![Screenshot (8)](https://github.com/Sreeja799/Turtle_Graphics/assets/73770166/339dd9e8-d212-4b7e-943a-b27fb0a483d2)
 
