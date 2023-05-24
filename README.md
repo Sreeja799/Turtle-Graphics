@@ -45,4 +45,5 @@ To use the Turtle Graphics program, follow these steps:
 
 8. To load a saved drawing, use the "Load" option in the program's menu. This will restore the previously saved state, allowing you to continue working on your drawing.
 
-## This program prints a star/flower like beatiful pattern. For more details, run the code in your local machine.
+## Example Output
+
