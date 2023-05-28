@@ -20,19 +20,27 @@ To use Turtle Graphics, follow these steps:
    pip install turtle
    ```
 
-## Usage
+## Description with example outputs
 
-Once you have installed the necessary dependencies, you can run the Turtle Graphics application by executing the `turtle_graphics.py` file.
-
-```bash
-python turtle_graphics.py
-```
-
-This will launch a graphical window where you can see the turtle and interact with it using the provided commands.
-
-The repository includes several example scripts (`examples/`) that demonstrate different functionalities of Turtle Graphics. You can explore these scripts to understand how to create shapes, draw patterns, and animate the turtle.
-
-## Example Output
+1. Wheel
 ![Screenshot (8)](https://github.com/Sreeja799/Turtle_Graphics/assets/73770166/339dd9e8-d212-4b7e-943a-b27fb0a483d2)
 
+2. Spirograph
+![Screenshot (15)](https://github.com/Sreeja799/Turtle-Graphics/assets/73770166/291e3c75-a55c-4098-a26a-40214a2aa06b)
+
+3. Polygons
+![Screenshot (16)](https://github.com/Sreeja799/Turtle-Graphics/assets/73770166/69843f15-56bb-4225-9410-4c82efef792c)
+
+4. Random Walk
+![Screenshot (17)](https://github.com/Sreeja799/Turtle-Graphics/assets/73770166/5c3971e1-9d69-4fe3-a58e-51292fc86338)
+
+5. Hirst Spot Painting
+![Screenshot (18)](https://github.com/Sreeja799/Turtle-Graphics/assets/73770166/b7e2d105-fecf-48d6-9e3f-c41ac9bfc444)
+
+6. Etch-A-Sketch
+![Screenshot (21)](https://github.com/Sreeja799/Turtle-Graphics/assets/73770166/1d0c6c9e-59c5-44be-a05d-c754e6a4d2a5)
+
+7. Turtle Race
+![Screenshot (9)](https://github.com/Sreeja799/Turtle-Graphics/assets/73770166/cdf3724a-d97d-488c-9bbb-ecb6c4ff29ab)
+![Screenshot (11)](https://github.com/Sreeja799/Turtle-Graphics/assets/73770166/b96d04c6-9ea4-40b8-9d8e-6d177753cc58)
 
